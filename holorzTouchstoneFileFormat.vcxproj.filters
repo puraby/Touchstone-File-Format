@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="holorSP2TouchStone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="copy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="myTouchstone.s2p">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="myTouchstone.s3p">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="myTouchstone.s4p">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S1-1.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S1-2.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S1-3.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S1-4.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S2-1.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S2-2.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S2-3.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S2-4.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S3-2.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S3-3.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S3-4.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S4-2.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S4-3.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="S4-4.spara">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="myTouchstone.s1p">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="holorSP2TouchStone.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="S4-1.spara">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
